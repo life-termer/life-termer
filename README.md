@@ -1,4 +1,4 @@
-### <h1 align="center"><img src="Waving_400px.gif" width="40px">  Hello there!
+### <h1 align="center"><img src="assets/waving_400px.gif" width="40px">  Hello there!
 <p align='center'> Something </p>
 <h1>
 <!--  
