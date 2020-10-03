@@ -1,7 +1,7 @@
 
 
-# <img src="assets/waving_400px.gif" width="40px"> [![Projects](https://github.com/life-termer/life-termer/blob/main/assets/logo200x80.png)](https://life-termer.github.io)
-My name is Dmitry Surchin and I'm student at B2 High Vocational School. I'm from Russia, now living in Ljubljana, Slovenija and currently learning Java programming.
+# [![Projects](https://github.com/life-termer/life-termer/blob/main/assets/logo200x80.png)](https://life-termer.github.io)
+Hello there! <img src="assets/waving_400px.gif" width="40px"> My name is Dmitry Surchin and I'm student at B2 High Vocational School. I'm from Russia, now living in Ljubljana, Slovenija and currently learning Java programming.
 
 
 
