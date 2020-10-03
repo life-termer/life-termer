@@ -1,4 +1,5 @@
 <h2 align="left"><img src="assets/waving_400px.gif" width="40px">  Hello there!
+ 
 <p align='left'> Something </p>
  
 [![Logo](https://github.com/life-termer/life-termer/blob/main/assets/logo200x80.png)](https://life-termer.github.io)
