@@ -5,7 +5,7 @@ My name is Dmitry Surchin and I'm student at B2 High Vocational School. I'm from
 
 
 
-## <img src="assets/waving_400px.gif" width="40px">  GitHub Stats
+## 📈 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=life-termer&show_icons=true&theme=react&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=life-termer&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
