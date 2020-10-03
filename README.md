@@ -1,4 +1,4 @@
-### <img src="Waving_400px.gif" width="45px">    Hello there!
+### <div align="center"><img src="Waving_400px.gif" width="40px">  Hello there!
 
 <!--
 **life-termer/life-termer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
