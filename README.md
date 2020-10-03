@@ -7,7 +7,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=life-termer&show_icons=true&theme=react&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=life-termer&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=life-termer&show_icons=true&theme=react&repo=Minesweeper)](https://github.com/life-termer/Minesweeper.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=life-termer&show_icons=true&theme=react&repo=LastFMBot)](https://github.com/life-termer/LastFMBot.git)
 
