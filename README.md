@@ -1,6 +1,6 @@
-### <div align="center"><img src="Waving_400px.gif" width="40px">  Hello there!
-  
- 
+### <h1 align="center"><img src="Waving_400px.gif" width="40px">  Hello there!
+<p align='center'> Something </p>
+<h1>
 <!--  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=life-termer)](https://github.com/anuraghazra/github-readme-stats)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=life-termer)](https://github.com/anuraghazra/github-readme-stats)
