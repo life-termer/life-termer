@@ -3,7 +3,7 @@
  
 [![Logo](https://github.com/life-termer/life-termer/blob/main/assets/logo200x80.png)](https://life-termer.github.io)
 
-<h1><img src="assets/waving_400px.gif" width="40px">  GitHub Stats
+<h3 align="left"><img src="assets/waving_400px.gif" width="40px">  GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=life-termer)](https://github.com/anuraghazra/github-readme-stats)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=life-termer)](https://github.com/anuraghazra/github-readme-stats)
@@ -13,6 +13,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=life-termer&repo=Minesweeper)](https://github.com/life-termer/Minesweeper.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=life-termer&repo=LastFMBot)](https://github.com/life-termer/LastFMBot.git)
 
+
+<hr>
 <!--
 **life-termer/life-termer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
