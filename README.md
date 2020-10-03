@@ -1,4 +1,4 @@
-### <img src="wavegif_1860.gif" width="30px"> Hi there 👋
+<img src="wavegif_1860.gif" width="45px"> ### Hi there
 
 <!--
 **life-termer/life-termer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
