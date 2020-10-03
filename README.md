@@ -1,5 +1,7 @@
 ### <div align="center"><img src="Waving_400px.gif" width="40px">  Hello there!
-  
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=life-termer&repo=Minesweeper)](https://github.com/life-termer/Minesweeper.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=life-termer&repo=LastFMBot)](https://github.com/life-termer/LastFMBot.git)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=life-termer)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
