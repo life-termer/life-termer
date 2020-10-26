@@ -11,6 +11,7 @@ Hello there! <img src="assets/waving_400px.gif" width="40px"> My name is Dmitry 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=life-termer&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=life-termer&show_icons=true&theme=react&repo=Minesweeper)](https://github.com/life-termer/Minesweeper.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=life-termer&show_icons=true&theme=react&repo=LastFMBot)](https://github.com/life-termer/LastFMBot.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=life-termer&show_icons=true&theme=react&repo=home-movie-library)](https://github.com/life-termer/home-movie-library.git)
 
 <!--
 **life-termer/life-termer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
