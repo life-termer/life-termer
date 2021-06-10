@@ -1,7 +1,7 @@
 
 
 # [![Projects](https://github.com/life-termer/life-termer/blob/main/assets/logo200x80.png)](https://life-termer.github.io)
-Hello there! My name is Dmitry Surchin and I'm student at B2 Higher Vocational College. I'm from Russia, now living in Ljubljana, Slovenija and learning Java and C# programming.
+Hello there! My name is Dmitry and I'm student at B2 Higher Vocational College. I'm from Russia, now living in Ljubljana, Slovenija and learning Java and C# programming.
 
 
 
