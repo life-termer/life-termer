@@ -1,10 +1,3 @@
-
-
-# [![Projects](https://github.com/life-termer/life-termer/blob/main/assets/logo200x80.png)](https://life-termer.github.io)
-Hello there! My name is Dmitry and I'm student at B2 Higher Vocational College. I'm from Russia, now living in Ljubljana, Slovenija and learning Java and C# programming.
-
-
-
 ## 📈 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=life-termer&show_icons=true&theme=react&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
