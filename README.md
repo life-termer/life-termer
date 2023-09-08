@@ -5,7 +5,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=life-termer&show_icons=true&theme=react&repo=HomeLibrary)](https://github.com/life-termer/HomeLibrary.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=life-termer&show_icons=true&theme=react&repo=LastFMBot)](https://github.com/life-termer/LastFMBot.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=life-termer&show_icons=true&theme=react&repo=home-movie-library)](https://github.com/life-termer/home-movie-library.git)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=life-termer&show_icons=true&theme=react&repo=Movie-database)](https://github.com/life-termer/Movie-database.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=life-termer&show_icons=true&theme=react&repo=memphis)](https://github.com/life-termer/memphis.git)
 
 <!--
 **life-termer/life-termer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
