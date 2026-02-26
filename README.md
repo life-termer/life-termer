@@ -5,7 +5,7 @@ I'm a frontend developer building modern, interactive web applications.
 ## 🔧 Tech Stack
 - **Frontend:** React, Next.js, React Native, HTML, CSS, JavaScript, Tailwind, Styled Components  
 - **Backend:** Supabase, Django, Laravel basics  
-- **CMS & APIs:** Contentful, GraphQL, various REST APIs  
+- **CMS & APIs:** Wordpress, Contentful, GraphQL, various REST APIs  
 - **Other:** Redux, Zustand, Phaser (game dev), AI integrations
 
 📫 [LinkedIn](https://www.linkedin.com/in/dsurchin/) | [Email](dsurchin@gmail.com)
